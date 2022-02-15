@@ -3,14 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_bebas.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_bebas.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_ekskul.xml" value="0.1403985507246377" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_eperpus.xml" value="0.14" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_fasilitas.xml" value="0.17527173913043478" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_galeri.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_guru.xml" value="0.2" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_guru_dan_staf.xml" value="0.1403985507246377" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_latihan.xml" value="0.12" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_perpus.xml" value="0.17527173913043478" />
         <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_profil.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/ProfilSekolah/app/src/main/res/layout/activity_splash_screen.xml" value="0.17527173913043478" />
       </map>
     </option>
   </component>
