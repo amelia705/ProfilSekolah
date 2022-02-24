@@ -60,9 +60,7 @@
                             android:layout_weight="9"
                             android:alignmentMode="alignMargins"
                             android:columnCount="1"
-                            android:columnOrderPreserved="false"
-                            tools:layout_editor_absoluteX="16dp"
-                            tools:layout_editor_absoluteY="15dp">
+                            android:columnOrderPreserved="false">
 
                             <!--                            PEMBUKA MENU 1-->
                             <androidx.cardview.widget.CardView
